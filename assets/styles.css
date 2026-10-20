@@ -1840,7 +1840,7 @@ footer{view-transition-name:mt-foot}
 
 
 /* === auto-paleta z marki klienta (źródło: logo) === */
-:root{--accent:#5272AA;--accent-d:#3F5D94;--accent-soft:rgba(82,114,170,0.10);--paper:#F8FAFE;--paper-2:#EDF0F6;--paper-3:#E2E6EE;--ink:#1C2128;--ink-soft:#424852;--muted:#777C84;--line:rgba(28,33,40,.12);}
+:root{--accent:#B49473;--accent-d:#7E6347;--accent-soft:rgba(180,148,115,.14);--paper:#EDE8E2;--paper-2:#E4DED6;--paper-3:#DCD5CC;--ink:#232429;--ink-soft:#4A4A50;--muted:#615D57;--line:rgba(35,36,41,.14);}
 .btn-accent{color:#fff}
 .nav .nav-links a.btn-accent{color:#fff}
 .btn-accent[data-accent-d],.cta-d .btn-accent{color:#fff}
